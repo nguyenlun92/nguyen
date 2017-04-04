@@ -18,7 +18,7 @@
 		}
 	</style>
 	<body>
-
+<?php include "createtable.php" ?>
 <table>
 	<?php if(isset($_POST["submit"]))
 		{
