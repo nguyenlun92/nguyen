@@ -24,7 +24,7 @@
 		{
 			echo "<tr> <td colspan ='2'> Chào bạn: ".$_POST["ten"]." </td> </tr>";
 			echo "<tr> <td colspan ='2'> Email của bạn là:".$_POST["email"]."</td> </tr>";
-			echo "<tr> <td colspan='2' > <input type='button' value='Trờ  lại' onclick='javascript:location.reload();'> </td> </tr>";
+			//echo "<tr> <td colspan='2' > <input type='button' value='Trờ  lại' onclick='javascript:location.reload();'> </td> </tr>";
 		}
 		else
 		{
