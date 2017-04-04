@@ -5,12 +5,16 @@
 	</head>
 	<style>
 		table{
-			width:80%;
+			width:30%;
 			margin:auto;
 		}
 		table td
 		{
 			text-align:center;
+		}
+		table td.title
+		{
+			text-align:left;
 		}
 	</style>
 	<body>
